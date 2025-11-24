@@ -36,5 +36,5 @@ The dashboard includes:
 - Rating (Maturity level) analysis
 - Year-over-year content release trend
 - Most frequent directors and actors
-# 📁 Repository Structure
+
   
